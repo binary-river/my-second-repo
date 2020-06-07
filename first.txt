@@ -1,8 +1,4 @@
 #first text file
 first text add on
 ex branch update to first.txt
-<<<<<<< HEAD
-It's sunny outside today.
-=======
 It's sunny outside today! But I didn't go out
->>>>>>> ex-branch-1
