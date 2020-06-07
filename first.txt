@@ -1,4 +1,4 @@
 #first text file
 first text add on
-ex branch-1 update to first.txt
+ex branch-2 update to first.txt
 It's sunny outside today! But I didn't go out, Well, sometimes we need to stay home safely.
